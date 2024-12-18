@@ -4,7 +4,7 @@ Hi there! I'm Mathias M. Nilsen, an data scientist with a history of working in 
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on projects involving React, Node.js, Python, and Machine Learning.
+- 🔭 I’m currently working on projects involving R, Python, and Machine Learning.
 - 🌱 I’m always eager to learn more about AI/ML, Blockchain, and Cloud Computing.
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/meiernilsen) or [Email](mailto:manilpit@gmail.com).
 
