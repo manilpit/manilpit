@@ -11,8 +11,8 @@ Hi there! I'm Mathias M. Nilsen, an data scientist with a history of working in 
 ## 🛠️ Technologies & Tools
 
 - **Languages**: JavaScript, Python, HTML/CSS, SQL, R
-- **Frameworks**: React, Node.js, Express.js, Flask
-- **Tools & Platforms**: Git, Docker, Jenkins, AWS
+- **Frameworks**: React, VUE, Express.js, Flask
+- **Tools & Platforms**: Git, Docker, Azure
 - **Databases**: MongoDB, MySQL, PostgreSQL
 
 ## 🤝 Contributions & Collaborations
