@@ -10,7 +10,7 @@ Hi there! I'm Mathias M. Nilsen, an data scientist with a history of working in 
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: JavaScript, Python, HTML/CSS, SQL
+- **Languages**: JavaScript, Python, HTML/CSS, SQL, R
 - **Frameworks**: React, Node.js, Express.js, Flask
 - **Tools & Platforms**: Git, Docker, Jenkins, AWS
 - **Databases**: MongoDB, MySQL, PostgreSQL
